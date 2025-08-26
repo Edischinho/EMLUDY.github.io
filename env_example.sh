@@ -1,5 +1,5 @@
 # Variáveis de ambiente para Netlify
 # Renomeie este arquivo para .env e preencha com suas credenciais do Supabase
 
-SUPABASE_URL=https://seu-projeto.supabase.co
-SUPABASE_ANON_KEY=sua-chave-anonima-aqui
+SUPABASE_URL=https://eejjuhbxvlbntcasbhst.supabase.co
+SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVlamp1aGJ4dmxibnRjYXNiaHN0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMzkyODksImV4cCI6MjA3MTgxNTI4OX0.CEHDxr1TOcn7awraIakIzadhLTC1Rd6mgd5PTazKPu4
